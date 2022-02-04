@@ -10,6 +10,7 @@ import {
   Platform,
 } from 'react-native';
 import { Navigator } from 'react-native-deprecated-custom-components'; // 0.1.1
+import {launchCamera, launchImageLibrary} from 'react-native-image-picker';
 
 import PhotoBrowser from 'react-native-photo-browser'; // 0.3.1
 
